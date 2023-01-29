@@ -1,0 +1,6 @@
+CIRCUIT MissingWire
+INPUT   A    1
+INPUT   B    3
+OUTPUT  C    4
+AND     3ns  1   3   4
+

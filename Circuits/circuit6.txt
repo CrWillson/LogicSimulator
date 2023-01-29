@@ -1,0 +1,4 @@
+CIRCUIT SlowNotGate
+INPUT   A    1
+OUTPUT  B    2
+NOT    10ns  1   2

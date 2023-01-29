@@ -1,0 +1,5 @@
+VECTOR DrivesTwo
+INPUT A  0  0
+INPUT A  3  1
+INPUT A  4  0
+

@@ -1,0 +1,7 @@
+CIRCUIT flipflop
+INPUT   R   1
+INPUT   S   2
+OUTPUT  O   3
+OUTPUT  4   4
+NOR     2ns  2   3   4
+NOR     2ns  1   4   3

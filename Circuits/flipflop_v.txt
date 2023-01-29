@@ -1,0 +1,9 @@
+VECTOR flipflop
+INPUT R  0  1
+INPUT S  0  1
+INPUT R  1  0
+INPUT S  2  0
+INPUT S  3  1
+INPUT S  4  0
+INPUT R  5  1
+INPUT R  6  0

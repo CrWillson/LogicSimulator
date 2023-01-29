@@ -1,0 +1,4 @@
+CIRCUIT JacubecCircuit
+INPUT   A    1
+OUTPUT  C    2
+NAND    2ns  1   2   2

@@ -1,0 +1,4 @@
+VECTOR WhiteBoard
+INPUT   A    0   1
+INPUT   B    0   0
+INPUT   A    3   0

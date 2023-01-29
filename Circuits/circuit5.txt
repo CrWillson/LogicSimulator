@@ -1,0 +1,4 @@
+CIRCUIT DuplicateTimedEvents
+INPUT   A    1
+OUTPUT  C    2
+NAND    3ns  1   2   2

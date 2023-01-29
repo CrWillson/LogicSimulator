@@ -1,0 +1,5 @@
+VECTOR MissingWire
+INPUT A  0  0
+INPUT B  0  1
+INPUT A  4  1
+
